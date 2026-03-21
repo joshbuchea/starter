@@ -1,0 +1,8 @@
+[build]
+  command = "yarn build"
+  publish = "_site"
+
+# Production context: all deploys from the Production branch set in your site's
+# deploy contexts will inherit these settings.
+[context.production]
+  environment = { ELEVENTY_ENV = "production" }
