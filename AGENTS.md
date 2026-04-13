@@ -12,6 +12,7 @@
 - Prefer arrow functions over function declarations
 - Prefer ordering alphabetically for component props, dependency arrays, hooks, imports/exports, object properties, and types/interfaces
 - Prefer using `-` rather than `*` for lists in markdown files
+- Prefer single quotes for strings in JavaScript/TypeScript files, and double quotes in markdown files
 - Avoid adding comments that say obvious things about what the code does
 
 ## Additional Notes
